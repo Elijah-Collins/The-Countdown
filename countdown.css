@@ -3,6 +3,7 @@
 background{
     background-color: white;
 }
-text{
+header{
     font: black;
+    font-size: 150px;
 }
