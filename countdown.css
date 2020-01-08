@@ -7,3 +7,6 @@ header{
     font: black;
     font-size: 150px;
 }
+div#countdown{
+    font-size: small;
+}
